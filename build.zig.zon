@@ -1,5 +1,6 @@
 .{
-    .name = "AFLplusplus",
+    .name = .AFLplusplus,
+    .fingerprint = 0x632e7eb678883576,
     .version = "4.21.0",
     .minimum_zig_version = "0.13.0",
     .dependencies = .{
